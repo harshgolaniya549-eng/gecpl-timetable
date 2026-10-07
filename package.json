@@ -1,0 +1,12 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "Full-Stack Student Management System with MongoDB, Node/Express, and React Vite",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js",
+    "dev": "node run.js",
+    "seed": "node backend/seed.js",
+    "test": "node backend/testApi.js"
+  }
+}

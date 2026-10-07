@@ -1,0 +1,232 @@
+{
+  "college": "Government Engineering College Palanpur",
+  "program": "First Semester Computer Engineering",
+  "batch": "CP3",
+  "student_count": 28,
+  "students": [
+    {
+      "sr_no": 51,
+      "student_name": "Harshadkumar Bharatbhai Koli",
+      "roll_number": "CE52",
+      "batch": "CP3",
+      "user_id": "CE52",
+      "password": "2026"
+    },
+    {
+      "sr_no": 52,
+      "student_name": "Parmar Yuvraj Galbabhai",
+      "roll_number": "CE53",
+      "batch": "CP3",
+      "user_id": "CE53",
+      "password": "2026"
+    },
+    {
+      "sr_no": 53,
+      "student_name": "Modh Rosanjay Sanjaykumar",
+      "roll_number": "CE55",
+      "batch": "CP3",
+      "user_id": "CE55",
+      "password": "2026"
+    },
+    {
+      "sr_no": 54,
+      "student_name": "Rina Babubhai Prajapati",
+      "roll_number": "CE56",
+      "batch": "CP3",
+      "user_id": "CE56",
+      "password": "2026"
+    },
+    {
+      "sr_no": 55,
+      "student_name": "Singh Vishal Shankarkumar",
+      "roll_number": "CE57",
+      "batch": "CP3",
+      "user_id": "CE57",
+      "password": "2026"
+    },
+    {
+      "sr_no": 56,
+      "student_name": "Shivan Harshadkumar Vaishnav",
+      "roll_number": "CE58",
+      "batch": "CP3",
+      "user_id": "CE58",
+      "password": "2026"
+    },
+    {
+      "sr_no": 57,
+      "student_name": "Sakshi Karansinh Chauhan",
+      "roll_number": "CE59",
+      "batch": "CP3",
+      "user_id": "CE59",
+      "password": "2026"
+    },
+    {
+      "sr_no": 58,
+      "student_name": "Bhavri Vijaykumar Patel",
+      "roll_number": "CE61",
+      "batch": "CP3",
+      "user_id": "CE61",
+      "password": "2026"
+    },
+    {
+      "sr_no": 59,
+      "student_name": "Axit Manojbhai Prajapati",
+      "roll_number": "CE62",
+      "batch": "CP3",
+      "user_id": "CE62",
+      "password": "2026"
+    },
+    {
+      "sr_no": 60,
+      "student_name": "Vaghela Harsiddh Chandnaji",
+      "roll_number": "CE63",
+      "batch": "CP3",
+      "user_id": "CE63",
+      "password": "2026"
+    },
+    {
+      "sr_no": 61,
+      "student_name": "Dhukka Mohammad M.Akram",
+      "roll_number": "CE65",
+      "batch": "CP3",
+      "user_id": "CE65",
+      "password": "2026"
+    },
+    {
+      "sr_no": 62,
+      "student_name": "Harsh Nitinbhai Golaniya",
+      "roll_number": "CE66",
+      "batch": "CP3",
+      "user_id": "CE66",
+      "password": "2026"
+    },
+    {
+      "sr_no": 63,
+      "student_name": "Mili Lalitkumar Patel",
+      "roll_number": "CE68",
+      "batch": "CP3",
+      "user_id": "CE68",
+      "password": "2026"
+    },
+    {
+      "sr_no": 64,
+      "student_name": "Shankarbhai Ramabhai Dangar",
+      "roll_number": "CE70",
+      "batch": "CP3",
+      "user_id": "CE70",
+      "password": "2026"
+    },
+    {
+      "sr_no": 65,
+      "student_name": "Priyanka Rameshbhai Hadiya",
+      "roll_number": "CE72",
+      "batch": "CP3",
+      "user_id": "CE72",
+      "password": "2026"
+    },
+    {
+      "sr_no": 66,
+      "student_name": "Swet Ahokbhai Prajapati",
+      "roll_number": "CE73",
+      "batch": "CP3",
+      "user_id": "CE73",
+      "password": "2026"
+    },
+    {
+      "sr_no": 67,
+      "student_name": "Sunasara Sheza Mobili",
+      "roll_number": "CE74",
+      "batch": "CP3",
+      "user_id": "CE74",
+      "password": "2026"
+    },
+    {
+      "sr_no": 68,
+      "student_name": "Chaudhary Dhavalkumar Bhavabhai",
+      "roll_number": "CE76",
+      "batch": "CP3",
+      "user_id": "CE76",
+      "password": "2026"
+    },
+    {
+      "sr_no": 69,
+      "student_name": "Modi Bijal Ashokkumar",
+      "roll_number": "CE77",
+      "batch": "CP3",
+      "user_id": "CE77",
+      "password": "2026"
+    },
+    {
+      "sr_no": 70,
+      "student_name": "Khushi Ankurbhai Modi",
+      "roll_number": "CE104",
+      "batch": "CP3",
+      "user_id": "CE104",
+      "password": "2026"
+    },
+    {
+      "sr_no": 71,
+      "student_name": "Bhargav Boghabhai Pathak",
+      "roll_number": "CE105",
+      "batch": "CP3",
+      "user_id": "CE105",
+      "password": "2026"
+    },
+    {
+      "sr_no": 72,
+      "student_name": "Aeiman Altafbhai Ajmeri",
+      "roll_number": "CE106",
+      "batch": "CP3",
+      "user_id": "CE106",
+      "password": "2026"
+    },
+    {
+      "sr_no": 73,
+      "student_name": "Khushkumar Nareshbhai Thakkar",
+      "roll_number": "CE107",
+      "batch": "CP3",
+      "user_id": "CE107",
+      "password": "2026"
+    },
+    {
+      "sr_no": 74,
+      "student_name": "Krishna Kunalbhai Soni",
+      "roll_number": "CE108",
+      "batch": "CP3",
+      "user_id": "CE108",
+      "password": "2026"
+    },
+    {
+      "sr_no": 75,
+      "student_name": "Yash Kanubhai Solanki",
+      "roll_number": "CE109",
+      "batch": "CP3",
+      "user_id": "CE109",
+      "password": "2026"
+    },
+    {
+      "sr_no": 76,
+      "student_name": "Kavya Rameshkumar Patel",
+      "roll_number": "CE110",
+      "batch": "CP3",
+      "user_id": "CE110",
+      "password": "2026"
+    },
+    {
+      "sr_no": 77,
+      "student_name": "Chaudhary Divya Haribhai",
+      "roll_number": "CE111",
+      "batch": "CP3",
+      "user_id": "CE111",
+      "password": "2026"
+    },
+    {
+      "sr_no": 78,
+      "student_name": "Neelkumar Vinodkumar Patel",
+      "roll_number": "CE112",
+      "batch": "CP3",
+      "user_id": "CE112",
+      "password": "2026"
+    }
+  ]
+}

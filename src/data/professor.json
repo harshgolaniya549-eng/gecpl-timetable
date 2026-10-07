@@ -1,0 +1,36 @@
+{
+    "college": "Government Engineering College, Palanpur",
+    "department": "Computer Engineering Department",
+    "users": [
+        {
+            "role": "HOD",
+            "name": "DR. R. H. JAISWAL",
+            "designation": "ASSOCIATE PROFESSOR",
+            "qualification": "PH.D.",
+            "experience": "26 YEARS",
+            "area_of_interest": [
+                "INFORMATION SECURITY",
+                "CYBER SECURITY",
+                "DIGITAL FORENSICS",
+                "IOT",
+                "OOP"
+            ],
+            "username": "dr.rh.jaiswal",
+            "user_id": "HOD_RHJ",
+            "password": "2026"
+        },
+        {
+            "role": "ASSISTANT PROFESSOR",
+            "name": "PROF. K. M. GOHEL",
+            "designation": "ASSISTANT PROFESSOR",
+            "qualification": "M.E. (Electronics & Communication)",
+            "experience": "2 YEARS",
+            "area_of_interest": [
+                "ELECTRONICS"
+            ],
+            "username": "prof.km.gohel",
+            "user_id": "PROF_KMG",
+            "password": "2026"
+        }
+    ]
+}

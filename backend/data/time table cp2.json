@@ -1,0 +1,201 @@
+{
+  "college": "Government Engineering College, Palanpur",
+  "department": "Computer Engineering Department",
+  "academic_year": "2026-27",
+  "semester": "Odd",
+  "academic_term": "1/7/2026 to 11/12/2026",
+  "effective_from": "13-8-2026",
+  "batch": "CP2",
+  "timetable": {
+    "Monday": [
+      [
+        "10:30 to 11:30",
+        "BME",
+        "AKP",
+        "8109"
+      ],
+      [
+        "11:30 to 12:30",
+        "PPS",
+        "KMG",
+        "8109"
+      ],
+      [
+        "01:00 to 02:00",
+        "MATHS-1",
+        "DAP",
+        "8109"
+      ],
+      [
+        "02:00 to 03:00",
+        "BEE",
+        "JHP",
+        "8109"
+      ],
+      [
+        "03:10 to 04:10",
+        "MATHS-1 CP2",
+        "VF",
+        "8109"
+      ],
+      [
+        "04:10 to 05:10",
+        "MATHS-1 CP2",
+        "VF",
+        "8109"
+      ]
+    ],
+    "Tuesday": [
+      [
+        "10:30 to 11:30",
+        "BEE",
+        "JHP",
+        "8109"
+      ],
+      [
+        "11:30 to 12:30",
+        "BME",
+        "PNB",
+        "8109"
+      ],
+      [
+        "01:00 to 02:00",
+        "PPS CP2",
+        "VF",
+        "8114"
+      ],
+      [
+        "02:00 to 03:00",
+        "PPS CP2",
+        "VF",
+        "8114"
+      ],
+      [
+        "03:10 to 04:10",
+        "DFWS CP2",
+        "MGP",
+        "4009"
+      ],
+      [
+        "04:10 to 05:10",
+        "DFWS CP2",
+        "MGP",
+        "4009"
+      ]
+    ],
+    "Wednesday": [
+      [
+        "10:30 to 11:30",
+        "MATHS-1",
+        "DAP",
+        "8109"
+      ],
+      [
+        "11:30 to 12:30",
+        "BME",
+        "PNB",
+        "8109"
+      ],
+      [
+        "01:00 to 02:00",
+        "IPDC",
+        "CGP",
+        "8012"
+      ],
+      [
+        "02:00 to 03:00",
+        "IPDC",
+        "CGP",
+        "8012"
+      ],
+      [
+        "03:10 to 04:10",
+        "S.L./LIB.",
+        null,
+        null
+      ],
+      [
+        "04:10 to 05:10",
+        "S.L./LIB.",
+        null,
+        null
+      ]
+    ],
+    "Thursday": [
+      [
+        "10:30 to 11:30",
+        "PPS",
+        "KMG",
+        "8109"
+      ],
+      [
+        "11:30 to 12:30",
+        "BEE",
+        "JHP",
+        "8109"
+      ],
+      [
+        "01:00 to 02:00",
+        "BME CP2",
+        "ADP",
+        "5112"
+      ],
+      [
+        "02:00 to 03:00",
+        "BME CP2",
+        "ADP",
+        "5112"
+      ],
+      [
+        "03:10 to 04:10",
+        "PPS CP2",
+        "KMG",
+        "8114"
+      ],
+      [
+        "04:10 to 05:10",
+        "PPS CP2",
+        "KMG",
+        "8114"
+      ]
+    ],
+    "Friday": [
+      [
+        "10:30 to 11:30",
+        "BEE CP2",
+        "JHP",
+        "4010"
+      ],
+      [
+        "11:30 to 12:30",
+        "BEE CP2",
+        "JHP",
+        "4010"
+      ],
+      [
+        "01:00 to 02:00",
+        "LIBRARY / S.L.",
+        null,
+        null
+      ],
+      [
+        "02:00 to 03:00",
+        "LIBRARY / S.L.",
+        null,
+        null
+      ],
+      [
+        "03:10 to 04:10",
+        "LIBRARY / S.L.",
+        null,
+        null
+      ],
+      [
+        "04:10 to 05:10",
+        "LIBRARY / S.L.",
+        null,
+        null
+      ]
+    ]
+  }
+}
