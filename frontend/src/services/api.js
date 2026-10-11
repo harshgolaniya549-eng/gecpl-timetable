@@ -1,7 +1,7 @@
 // API URL configuration:
 // Defaults to relative '/api' so Vite proxy forwards requests seamlessly
 // on localhost, LAN IP (e.g. mobile testing), and untun / Cloudflare tunnels.
-const API_BASE_URL = import.meta.env.VITE_API_URL || '/api';
+const API_BASE_URL = 'https://gecpl-timetable-backend.onrender.com';
 
 /**
  * Robust fetch helper that attempts relative '/api' endpoint (Vite proxy/tunnel)
